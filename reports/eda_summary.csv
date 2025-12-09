@@ -1,0 +1,2 @@
+n_rows,n_columns,numeric_cols,overall_loss_ratio_mean,overall_loss_ratio_median
+1000098,54,"['underwrittencoverid', 'policyid', 'postalcode', 'mmcode', 'registrationyear', 'cylinders', 'cubiccapacity', 'kilowatts', 'numberofdoors', 'customvalueestimate', 'numberofvehiclesinfleet', 'suminsured', 'calculatedpremiumperterm', 'totalpremium', 'totalclaims', 'loss_ratio']",0.3498846581363079,0.0
