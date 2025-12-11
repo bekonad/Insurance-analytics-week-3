@@ -1,0 +1,4 @@
+Segment,Group_A,Group_B,n_A,n_B,p_frequency,Power_Frequency,p_severity,Power_Severity,p_margin,Power_Margin,Reject_H0,Overall_Power,hypothesis,Conclusion
+province,Gauteng,Western Cape,393865,170796,6.93204979415946e-14,1.0,0.35695564497624155,0.1486,1.574006420143941e-236,1.0,True,0.3333333333333333,No risk difference across provinces,REJECT H₀
+postalcode,2000,122,133498,49171,0.05788217295685014,0.8593,0.022740263257813226,0.5237,3.3335235889363145e-296,,True,0.2864333333333333,No risk difference between zip codes,REJECT H₀
+gender,Not specified,Male,940990,42817,0.016685752277999892,1.0,0.08472522524430522,0.9724,0.0,1.0,True,0.3333333333333333,No risk difference between Women and Men,REJECT H₀
